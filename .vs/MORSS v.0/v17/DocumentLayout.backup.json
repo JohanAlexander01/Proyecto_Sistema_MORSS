@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\UNDAC\\SEPTIMO SEMESTRE\\Redes de Computadoras I\\MORSS v.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAEBDAB-897C-483D-80D3-4FE04BC29762}|MORSS v.0\\Presentacion.vbproj|C:\\Users\\HP\\Documents\\UNDAC\\SEPTIMO SEMESTRE\\Redes de Computadoras I\\MORSS v.0\\morss v.0\\vistas\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EAEBDAB-897C-483D-80D3-4FE04BC29762}|MORSS v.0\\Presentacion.vbproj|solutionrelative:morss v.0\\vistas\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95926C-277D-46C6-9A80-BA6565496DAC}|Entidades\\Entidades.vbproj|c:\\users\\hp\\documents\\undac\\septimo semestre\\redes de computadoras i\\morss v.0\\entidades\\entatendidoarchivado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3F95926C-277D-46C6-9A80-BA6565496DAC}|Entidades\\Entidades.vbproj|solutionrelative:entidades\\entatendidoarchivado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAEBDAB-897C-483D-80D3-4FE04BC29762}|MORSS v.0\\Presentacion.vbproj|c:\\users\\hp\\documents\\undac\\septimo semestre\\redes de computadoras i\\morss v.0\\morss v.0\\vistas\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EAEBDAB-897C-483D-80D3-4FE04BC29762}|MORSS v.0\\Presentacion.vbproj|solutionrelative:morss v.0\\vistas\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\UNDAC\\SEPTIMO SEMESTRE\\Redes de Computadoras I\\MORSS v.0\\MORSS v.0\\Vistas\\frmLogin.vb",
+              "RelativeDocumentMoniker": "MORSS v.0\\Vistas\\frmLogin.vb",
+              "ToolTip": "C:\\Users\\HP\\Documents\\UNDAC\\SEPTIMO SEMESTRE\\Redes de Computadoras I\\MORSS v.0\\MORSS v.0\\Vistas\\frmLogin.vb",
+              "RelativeToolTip": "MORSS v.0\\Vistas\\frmLogin.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-24T23:29:56.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntAtendidoArchivado.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\UNDAC\\SEPTIMO SEMESTRE\\Redes de Computadoras I\\MORSS v.0\\Entidades\\EntAtendidoArchivado.vb",
+              "RelativeDocumentMoniker": "Entidades\\EntAtendidoArchivado.vb",
+              "ToolTip": "C:\\Users\\HP\\Documents\\UNDAC\\SEPTIMO SEMESTRE\\Redes de Computadoras I\\MORSS v.0\\Entidades\\EntAtendidoArchivado.vb",
+              "RelativeToolTip": "Entidades\\EntAtendidoArchivado.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-24T23:22:40.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\UNDAC\\SEPTIMO SEMESTRE\\Redes de Computadoras I\\MORSS v.0\\MORSS v.0\\Vistas\\frmLogin.vb",
+              "RelativeDocumentMoniker": "MORSS v.0\\Vistas\\frmLogin.vb",
+              "ToolTip": "C:\\Users\\HP\\Documents\\UNDAC\\SEPTIMO SEMESTRE\\Redes de Computadoras I\\MORSS v.0\\MORSS v.0\\Vistas\\frmLogin.vb [Dise\u00F1o]",
+              "RelativeToolTip": "MORSS v.0\\Vistas\\frmLogin.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-24T23:22:40.353Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

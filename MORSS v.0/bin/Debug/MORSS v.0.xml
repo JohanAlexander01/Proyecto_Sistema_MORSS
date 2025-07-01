@@ -1,0 +1,106 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MORSS v.0
+</name>
+</assembly>
+<members>
+<member name="T:MORSS_v._0.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.banco_de_la_nacion_multired_logo_png_seeklogo_396410">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.icons8_bar_chart_50px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.icons8_Close_30px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.icons8_Close_50px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.icons8_home_50px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.icons8_lock_50px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.icons8_people_50px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.icons8_Power_Off_Button_50px_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.icons8_save_50px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.icons8_user_50px_2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.icons8_user_50px_3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.morss">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.png_transparent_mastercard_logo_mastercard_credit_card_payment_visa_nyse_ma_mastercard_logo_text_logo_sign_thumbnail">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.pngtree_credit_card_isolated_visa_photo_png_image_13488666">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.user_man">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MORSS_v._0.My.Resources.Resources.user_women">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
